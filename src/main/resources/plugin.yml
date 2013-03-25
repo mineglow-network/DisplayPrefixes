@@ -1,0 +1,6 @@
+name: DisplayPrefixes
+main: com.modwiz.displayPrefixes.DisplayPrefixesPlugin
+version: 0.0.1
+authors: [Starbuck Johnson <starbuck@modwiz.com]
+depend: [ModPerms]
+softdepend: [ModWorlds]
